@@ -1,0 +1,45 @@
+
+HOSPITAL APPOINTMENT MANAGEMENT SYSTEM
+
+API METHODS:
+
+1. POST  → Add a new patient
+2. GET   → View all patients
+3. GET   → Search patient by ID
+4. DELETE → Delete patient
+5. GET   → View all doctors
+6. POST  → Book an appointment
+7. GET   → View all appointments
+
+
+HTTP METHODS:
+
+POST:
+Used to add new patient details and book appointments.
+
+GET:
+Used to retrieve patient, doctor and appointment details.
+
+PUT:
+Used to update existing patient or appointment details.
+
+DELETE:
+Used to remove patient or appointment details.
+
+
+PYTHON CONCEPTS USED:
+
+1. List
+2. Dictionary
+3. Tuple
+4. Functions
+5. Conditional statements
+6. Loops
+7. Operators
+8. Modules and importing
+
+
+
+
+
+
